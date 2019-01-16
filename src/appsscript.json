@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Close.io Connector",
+    "company": "Kevin McHugh",
+    "logoUrl": "https://developer.close.io/img/logo.png",
+    "addonUrl": "https://github.com/k-m-engin/close.io-connector",
+    "supportUrl": "https://github.com/k-m-engin/close.io-connector",
+    "description": "This connector can be used to show data from close.io API."
+  }
+}
